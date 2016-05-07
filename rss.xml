@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FiitMeFitness]]></title>
+        <description><![CDATA[FiitMeFitness]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 17:28:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!</p>]]></description>
+            <link>undefinedfitness-is-so-simple-however-a-lot-of-people-out-there-wil/index.html</link>
+            <guid isPermaLink="false">9766424b-07f3-4d4f-9d36-49f36f149bfb</guid>
+            <pubDate>Sat, 07 May 2016 17:27:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
