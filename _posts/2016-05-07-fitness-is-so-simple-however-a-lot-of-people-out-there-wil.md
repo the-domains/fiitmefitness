@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!"
-datePublished: '2016-05-07T17:27:54.608Z'
-dateModified: '2016-05-07T17:27:36.935Z'
+datePublished: '2016-05-07T17:54:48.505Z'
+dateModified: '2016-05-07T17:54:37.919Z'
+title: ''
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
 sourcePath: _posts/2016-05-07-fitness-is-so-simple-however-a-lot-of-people-out-there-wil.md
-url: fitness-is-so-simple-however-a-lot-of-people-out-there-wil/index.html
-_type: Article
+_type: Blurb
 
 ---
 Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!
@@ -29,4 +29,4 @@ Don't believe me? Ok, next time you do the laundry try this one! Here's all the 
 
 Do you see my point now? Fitness doesn't have to be complicated. You can get a great workout in the comfort of your home or outside (find an object you can lift or your own bodyweight resistance (Ex: push-ups) and a trail to run/walk on).
 
-Of course, not everyone will achieve the specific results they want from this type of workout. For example, someone training for a specific sport or event will need to train more modalities. However, the point of having a strength component and raising your heart rate should be the two goals of any workout you do.
+Of course, not everyone will achieve the specific results they want from this type of workout. For example, someone training for a specific sport or event will need to train more modalities. However, the point of having a strength component and raising your heart rate should be the two goals of any workout you do. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df666255-de49-4972-a292-bab5586936d5.jpg)
