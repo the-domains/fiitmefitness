@@ -1,0 +1,28 @@
+name: FiitMeFitness
+favicon: null
+layout_spectrum: 0.21858445648103952
+typography_spectrum: 0.15836559934541583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.213653436396271
+  lightness: 0.9422166333533823
+  saturation: 0.19460539449937642
+  rhythmicContrast: 0.8131497681606561
+purpose: []
