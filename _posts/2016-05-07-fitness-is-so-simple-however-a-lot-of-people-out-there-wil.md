@@ -6,10 +6,11 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!"
-datePublished: '2016-05-07T17:59:16.898Z'
-dateModified: '2016-05-07T17:58:37.733Z'
+datePublished: '2016-05-07T17:59:59.614Z'
+dateModified: '2016-05-07T17:59:56.116Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-fitness-is-so-simple-however-a-lot-of-people-out-there-wil.md
 authors: []
 publisher:
   name: null
@@ -17,10 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-fitness-is-so-simple-however-a-lot-of-people-out-there-wil.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e45455fe-4d9b-4b25-8ec5-bd8e5a2ee8f4.jpg)
+
 Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!
 
 Allow me to let you in on a little known secret, all you need are two things to get in shape: something to lift (this can literally be anything including your own body weight) and room to move. That's it! You're covering all the bases! You'll be building strength (anaerobic) and increasing your metabolic conditioning (aerobic). 
