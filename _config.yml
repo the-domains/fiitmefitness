@@ -2,6 +2,7 @@ name: FiitMeFitness
 favicon: null
 layout_spectrum: 0.21858445648103952
 typography_spectrum: 0.15836559934541583
+title: FiitMe
 cta:
   domain: null
   bucket: null
