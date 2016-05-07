@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!"
-datePublished: '2016-05-07T17:55:13.341Z'
-dateModified: '2016-05-07T17:32:25.374Z'
+datePublished: '2016-05-07T17:59:16.898Z'
+dateModified: '2016-05-07T17:58:37.733Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-07-fitness-is-so-simple-however-a-lot-of-people-out-there-wil.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
-url: fitness-is-so-simple-however-a-lot-of-people-out-there-wil/index.html
-_type: Article
+starred: false
+sourcePath: _posts/2016-05-07-fitness-is-so-simple-however-a-lot-of-people-out-there-wil.md
+_type: Blurb
 
 ---
 Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!
