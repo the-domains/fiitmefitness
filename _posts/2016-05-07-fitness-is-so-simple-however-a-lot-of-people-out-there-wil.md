@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!"
-datePublished: '2016-05-07T17:59:59.614Z'
-dateModified: '2016-05-07T17:59:56.116Z'
+datePublished: '2016-05-08T14:28:12.093Z'
+dateModified: '2016-05-08T14:27:18.989Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-fitness-is-so-simple-however-a-lot-of-people-out-there-wil.md
@@ -17,11 +17,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e45455fe-4d9b-4b25-8ec5-bd8e5a2ee8f4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cea8ced-34b0-4a25-ac2f-75534b073af8.jpg)
+
+## The best kept secret about fitness!
 
 Fitness is so simple! However, a lot of people out there will try to convince you otherwise. They'll make you believe you can only get in shape if you use their big shiny expensive machine or some other complicated piece of equipment. They'll have you question your own common sense and convince you that anything and everything you know about fitness is wrong!
 
