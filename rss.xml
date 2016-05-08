@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FiitMe]]></title>
         <description><![CDATA[FiitMe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fiitmefitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 14:39:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 14:42:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fiitmefitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Real People, Real Results]]></title>
+            <description><![CDATA[<article><h1>Real People, Real Results</h1><p>Since I started working with Eric back in August, not only have I lost close to 30lbs, but more importantly, I'm in the best shape of my life and that includes high school! Even though I still weigh more than I did back then, I'm so much stronger now, which is an amazing and empowering feeling!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faec233d-9a56-4b9f-8a37-ab0b6d4371b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fiitmefitness/real-people-real-results/index.html</link>
+            <guid isPermaLink="false">2c736eeb-761a-4b46-b954-1b413dcd17fc</guid>
+            <pubDate>Sun, 08 May 2016 14:42:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's time to get up and move!]]></title>
             <description><![CDATA[<article><h1>It's time to get up and move!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2145c9a7-3d29-47c9-9d03-00f5974a5e9e.jpg"></article>]]></description>
-            <link>undefinedits-time-to-get-up-and-move/index.html</link>
+            <link>https://thegrid.ai/fiitmefitness/its-time-to-get-up-and-move/index.html</link>
             <guid isPermaLink="false">2c8510ee-5509-43b2-94a0-5264da21632c</guid>
             <pubDate>Sun, 08 May 2016 14:39:03 GMT</pubDate>
         </item>
