@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FiitMe]]></title>
+        <description><![CDATA[FiitMe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 14:39:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's time to get up and move!]]></title>
+            <description><![CDATA[<article><h1>It's time to get up and move!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2145c9a7-3d29-47c9-9d03-00f5974a5e9e.jpg"></article>]]></description>
+            <link>undefinedits-time-to-get-up-and-move/index.html</link>
+            <guid isPermaLink="false">2c8510ee-5509-43b2-94a0-5264da21632c</guid>
+            <pubDate>Sun, 08 May 2016 14:39:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
